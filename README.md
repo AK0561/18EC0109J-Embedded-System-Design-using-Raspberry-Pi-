@@ -34,67 +34,67 @@ Raspberry Pi is a versatile single-board computer that's widely used for embedde
 
 ### Arithmetic & String Operations
 
-- [Code](EXP-1(ESD))
+- [Code](EXP-01(ESD).pdf)
 - Introduction to basic arithmetic operations and string manipulation using Python on the Raspberry Pi.
 
 ### Loop Operations
 
-- [Code](EXP-2(ESD))
+- [Code](EXP-02(ESD).pdf)
 - Understanding loops and their applications in embedded systems design.
 
 ### Programs on List Operations
 
-- [Code](EXP-3(ESD))
+- [Code](EXP-03(ESD).pdf)
 - Working with lists, arrays, and data structures for data storage and manipulation.
 
 ### Programs on Dictionary Operations
 
-- [Code](EXP-4(ESD))
+- [Code](EXP-04(ESD).pdf)
 - Utilizing dictionaries and key-value data storage in embedded systems.
 
 ### LED Blinking & Brightness Control
 
-- [Code](EXP-5(ESD))
+- [Code](EXP-05(ESD).pdf)
 - Controlling LEDs, including blinking and adjusting brightness levels.
 
 ### Switching a High-Power DC Device
 
-- [Code](EXP-6(ESD))
+- [Code](EXP-06(ESD).pdf)
 - Practical demonstration of switching high-power DC devices using relays or transistors.
 
 ### Programming on Switch
 
-- [Code](EXP-7(ESD))
+- [Code](EXP-07(ESD).pdf)
 - Incorporating switches for input and control in embedded systems.
 
 ### Programming on Interrupts
 
-- [Code](EXP-8(ESD))
+- [Code](EXP-08(ESD).pdf)
 - Understanding interrupt handling and its applications in real-time embedded systems.
 
 ### Programming on Stepper Motor
 
-- [Code](EXP-9(ESD))
+- [Code](EXP-09(ESD).pdf)
 - Controlling stepper motors for precise motion in embedded systems.
 
 ### Programming on PIR Sensor
 
-- [Code](EXP-10(ESD))
+- [Code](EXP-10(ESD).pdf)
 - Utilizing Passive Infrared (PIR) sensors for motion detection and applications.
 
 ### Programming on Resistive Sensors
 
-- [Code](EXP-11(ESD))
+- [Code](EXP-11(ESD).pdf)
 - Interfacing with resistive sensors (e.g., temperature, light) and gathering data.
 
 ### Programming on Ultrasonic Sensors
 
-- [Code](EXP-12(ESD))
+- [Code](EXP-12(ESD).pdf)
 - Implementing ultrasonic sensors for distance measurement and obstacle detection.
 
 ### Pushing Data to ThingsBoard using MQTT
 
-- [Code](EXP-13(ESD))
+- [Code](EXP-13(ESD).pdf)
 - Connecting your Raspberry Pi to ThingsBoard IoT platform using MQTT for data visualization and analysis.
 
 ## Getting Started
